@@ -4,13 +4,10 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# Presentation of the time serie using a plot
 
+# Box-Jenkins Procedure to to identify the ARIMA model (p, d, q) in time serie's data
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+#
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#
